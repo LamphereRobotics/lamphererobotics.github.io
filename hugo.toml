@@ -1,0 +1,115 @@
+baseURL = 'https://www.LamphereRobotics.com/'
+languageCode = 'en-us'
+theme = 'heyo-hugo-theme'
+title = "Lamphere Robotics"
+
+[Languages]
+  [Languages.en]
+    contentDir = "content"
+    weight = 1
+    LanguageName = "en"
+
+[params.author]
+  name = "Lamphere Robotics"
+  email = "frc6566@gmail.com"
+
+[params]
+  title = "Lamphere Robotics"
+  description = "Makers of fine robots."
+  profilePicture = "images/profile.jpg"
+  favicon = "favicons/"
+  customCss = []
+  customJs = []
+  displayMode = "light"
+  images = ['images/profile.jpg']
+
+[taxonomies]
+  series = 'series'
+  categories = 'categories'
+  tags = 'tags'
+
+# Sketch settings
+# you can also enable or disable it per page
+[params.sketch] 
+  enable = false 
+  displayOptions = true
+  # Graph, Digital Rain, or Circles
+  use = "Digital Rain"
+  # JSON that is passed to the sketch constructor
+  # You can check all the possible configurations in
+  startingConfig = """{
+    "kind": "katakana",
+    "nStreams": 10
+  }"""
+
+
+## Math settings
+[params.math]
+  # global support, you can also configure it per page
+  enable = true
+  # katex or mathjax, default is mathjax
+  use = "mathjax"
+
+## Social links
+[[params.socialIcons]]
+icon = "fab fa-linkedin" # Font-awesome icon
+title = "Linkedin"
+url = "https://linkedin.com/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/LamphereRobotics"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:frc6566@gmail.com"
+
+# Menu items
+[menu]
+[[Languages.en.menu.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[Languages.en.menu.main]]
+name = "Posts"
+weight = 200
+identifier = "posts"
+url = "/post/"
+
+[[Languages.en.menu.main]]
+name = "About"
+weight = 300
+identifier = "about"
+url = "/about/"
+
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    endLevel = 6
+    startLevel = 1
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
+
+# Hugo will ignore these files, .rmd and .rmarkdown are taken care by blogdown
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown", "_files$", "_cache$"]
