@@ -80,17 +80,34 @@ weight = 100
 url = "/"
 
 [[Languages.en.menu.main]]
-name = "Posts"
+name = "News"
 weight = 200
 identifier = "posts"
-url = "/post/"
+url = "/posts/"
+
+[[Languages.en.menu.main]]
+name = "Robots"
+weight = 220
+identifier = "robots"
+url = "/robots/"
+
+[[Languages.en.menu.main]]
+name = "Community Outreach"
+weight = 220
+identifier = "outreach"
+url = "/outreach/"
+
+[[Languages.en.menu.main]]
+name = "Sponsors"
+weight = 220
+identifier = "sponsors"
+url = "/sponsors/"
 
 [[Languages.en.menu.main]]
 name = "About"
 weight = 300
 identifier = "about"
 url = "/about/"
-
 
 [markup]
   [markup.goldmark.renderer]
