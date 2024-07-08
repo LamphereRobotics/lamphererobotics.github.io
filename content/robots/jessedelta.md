@@ -13,6 +13,8 @@ Following last year's convention, this robot was named after a mentor and studen
 
 ## Key Technology Decisions
 
+One of the first decisions we made this year was to use a swerve-based drive train.
+
 ## First Competition
 
 ## Second Competition
