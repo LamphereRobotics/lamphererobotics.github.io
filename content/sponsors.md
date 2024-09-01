@@ -11,6 +11,12 @@ The Battering Rams (and the Lamphere Robotics program in general) wouldn't be an
 
 ---
 
+![Hakko USA](/images/sponsors/HAKKO.png "Hakko USA")
+
+[Hakko USA](https://hakkousa.com/) is a new sponsor in 2024, providing soldering stations to replace the borrowed soldering irons we had been using.
+
+---
+
 ![Lamphere Public Schools](/images/sponsors/LampherePublicSchools.png "Lamphere Public Schools")
 
 [Lamphere Public Schools](https://www.lamphereschools.org/) have provided unwavering support for our team in the form of funding, and are currently working on building a dedicated space for our team.
