@@ -2,7 +2,7 @@
 title: 'New site'
 date: 2024-06-17T15:14:20-04:00
 Description: ""
-Tags: []
+Tags: [news]
 Categories: []
 DisableComments: false
 ---

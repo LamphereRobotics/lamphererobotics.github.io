@@ -2,7 +2,7 @@
 title: "Our Sponsors"
 date: 2024-07-08T14:32:17-04:00
 Description: ""
-Tags: []
+Tags: [sponsors]
 Categories: []
 DisableComments: false
 ---

@@ -1,13 +1,15 @@
 ---
 title: 'New Sponsor: Hakko USA'
 date: 2024-09-01T15:00:00-04:00
-Description: ""
-Tags: []
+description: "Thank you, Hakko!"
+Tags: [news]
 Categories: []
 DisableComments: false
 ---
 
 We've finally gotten a chance to inventory the equipment sent by our new sponsor, Hakko!
+
+<!--more-->
 
 FX-888D Standalone Soldering Station
 

@@ -22,6 +22,7 @@ title = "Lamphere Robotics"
   customJs = []
   displayMode = "light"
   images = ['images/profile.jpg']
+  mainSections = ['robots','posts','outreach']
 
 [taxonomies]
   series = 'series'
@@ -75,8 +76,8 @@ url = "mailto:frc6566@gmail.com"
 [menu]
 [[Languages.en.menu.main]]
 name = "Home"
-identifier = "home"
 weight = 100
+identifier = "home"
 url = "/"
 
 [[Languages.en.menu.main]]
@@ -87,7 +88,7 @@ url = "/posts/"
 
 [[Languages.en.menu.main]]
 name = "Robots"
-weight = 220
+weight = 210
 identifier = "robots"
 url = "/robots/"
 
@@ -99,7 +100,7 @@ url = "/outreach/"
 
 [[Languages.en.menu.main]]
 name = "Sponsors"
-weight = 220
+weight = 230
 identifier = "sponsors"
 url = "/sponsors/"
 

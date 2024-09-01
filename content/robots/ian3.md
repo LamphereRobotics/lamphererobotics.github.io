@@ -2,7 +2,7 @@
 title: "2023 Competition Robot: Ian3"
 date: 2024-07-08T10:32:17-04:00
 Description: ""
-Tags: []
+Tags: [robot]
 Categories: []
 DisableComments: false
 ---
