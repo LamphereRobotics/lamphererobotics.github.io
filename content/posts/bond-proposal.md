@@ -26,20 +26,23 @@ The bond proposal will pay for the refurbishment of the unused pool at John Page
 
 So, what are the benefits of a robotics center? Here are some of the pros and cons (as I see them).
 
-## Pros
+### Pros
 - **A dedicated workspace:** Right now we're doing the best we can with the resources we have, but the teams are scattered.
   * The high school team is currently working out of a couple of closets in the Jewelry room. Every time we meet, we spend 20 minutes unpacking our work area, then packing it back up at the end of the night. It's not ideal.
   * The elementary and middle school teams are run out of classrooms and libraries, making material sharing difficult.
 - **Increased School Desirability:** Lamphere is already a great district, but having a dedicated Robotics Center will be a draw for school of choice students. There are only a handful of school districts in Michigan with a dedicated robotics area- this will make us stand out.
 - **Increased Property Values:** This is purely conjecture on my part, but school desirability will impact property desirability, and hence increase property values.
 
-## Cons
+### Cons
 
 - **Property tax increase:** Lamphere hasn't asked for a bond since the 90's, unlike every other school in the area, so taxes will increase. How much? Zillow values my house at $234k. In 2023, Madison Heights assessed my house at **$82k**, with a taxable value of **$42k**, the [property tax calculator](https://pfmtaxcalc.com/TheLamphereSchools/default.aspx) determined **the entire bond will cost me 48 cents a day**. I know money is tight and the future is uncertain, but this is an investment in the community that will pay dividends over the next decade.
 
+
+## Final Thoughts
+
 The Robotics Center is only our small part of the bond proposal- you can learn more at the [Official Bond Proposal page](https://www.lamphereschools.org/page/bond-info-2025).
 
-Again, as a parent and a volunteer- these kids work their butts off and deserve this. We do the best we can with the resources we have, but having our own space will be an absolute game changer.
+Again, as a parent and a volunteer- these kids work their butts off and deserve it. We do the best we can with the resources we have, but having our own space will be an absolute game changer.
 
 Please vote *Yes* on the Bond Proposal.
 
