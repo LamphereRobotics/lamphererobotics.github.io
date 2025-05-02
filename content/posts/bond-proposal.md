@@ -5,7 +5,6 @@ Description: ""
 Tags: [news]
 Categories: [mentors]
 Author: Jesse Morgan
-Draft: true
 DisableComments: false
 ---
 
