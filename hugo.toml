@@ -52,10 +52,17 @@ title = "Lamphere Robotics"
   use = "mathjax"
 
 ## Social links
+
+
 [[params.socialIcons]]
-icon = "fab fa-linkedin" # Font-awesome icon
-title = "Linkedin"
-url = "https://linkedin.com/"
+icon = "fab fa-youtube" # Font-awesome icon
+title = "Youtube"
+url = "https://www.youtube.com/@frc6566"
+
+[[params.socialIcons]]
+icon = "fab fa-tiktok" # Font-awesome icon
+title = "Tiktok"
+url = "https://www.tiktok.com/@frc6566batteringrams"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
@@ -65,7 +72,12 @@ url = "https://github.com/LamphereRobotics"
 [[params.socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/frc6566batteringrams/"
+
+[[params.socialIcons]]
+icon = "fab fa-facebook"
+title = "Facebook"
+url = "https://www.facebook.com/groups/131365347945926"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
