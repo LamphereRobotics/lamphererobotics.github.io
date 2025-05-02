@@ -59,10 +59,10 @@ icon = "fab fa-youtube" # Font-awesome icon
 title = "Youtube"
 url = "https://www.youtube.com/@frc6566"
 
-[[params.socialIcons]]
-icon = "fab fa-tiktok" # Font-awesome icon
-title = "Tiktok"
-url = "https://www.tiktok.com/@frc6566batteringrams"
+#[[params.socialIcons]]
+#icon = "fab fa-tiktok" # Font-awesome icon
+#title = "Tiktok"
+#url = "https://www.tiktok.com/@frc6566batteringrams"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
