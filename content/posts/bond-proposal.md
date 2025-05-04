@@ -57,3 +57,9 @@ Thank you for your consideration.
 P.S. Here's a video one of our students made to help convince you (Thanks Ryan!):
 
 <iframe src="https://drive.google.com/file/d/12hGF0uPMCsV5c8tBa3_WfkBklnUGVLy2/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+And here's a clip of our 2025 robot in action (we're #6566 in red, and our driving team is in the center position):
+
+{{< youtube id="KjEnn_UIwls" >}}
+
