@@ -31,8 +31,8 @@ title = "Lamphere Robotics"
 
 # Sketch settings
 # you can also enable or disable it per page
-[params.sketch] 
-  enable = false 
+[params.sketch]
+  enable = false
   displayOptions = true
   # Graph, Digital Rain, or Circles
   use = "Digital Rain"

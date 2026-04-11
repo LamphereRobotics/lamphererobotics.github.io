@@ -20,5 +20,3 @@ This year's team had two Ians, so we figured we'd make our robot the third Ian: 
 ## Post Competition Use
 
 ## Final Thoughts
-
-

@@ -26,4 +26,3 @@ The Battering Rams (and the Lamphere Robotics program in general) wouldn't be an
 ![The Safety Source LLC](/images/sponsors/TheSafetySourceLLC.png "The Safety Source LLC")
 
 [The Safety Source LLC](https://safetysourcellc.com/) has been a valued partner for the past two years, providing us with both financial support and safety equipment.
-

@@ -24,5 +24,3 @@ git submodule update
 hugo server -D
 ```
 in your web browser, check http://localhost:1313/ and you should see the latest site.
-
-

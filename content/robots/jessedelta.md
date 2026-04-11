@@ -22,4 +22,3 @@ One of the first decisions we made this year was to use a swerve-based drive tra
 ## Post Competition Use
 
 ## Final Thoughts
-
