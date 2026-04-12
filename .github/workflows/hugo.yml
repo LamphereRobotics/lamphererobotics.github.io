@@ -1,9 +1,7 @@
 ---
-name: Deploy Hugo site to Pages
+name: Build Hugo site (and deploy to Pages if main branch)
 on:
   push:
-    branches:
-      - main
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
@@ -66,6 +64,7 @@ jobs:
 
   # Deployment job
   deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
