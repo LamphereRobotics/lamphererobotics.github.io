@@ -1,5 +1,5 @@
 ---
-name: Deploy Hugo site to Pages
+name: Build Hugo site (and deploy to Pages if main branch)
 on:
   push:
   workflow_dispatch:
