@@ -1,0 +1,164 @@
+---
+baseURL: 'https://www.LamphereRobotics.com/'
+copyright: "Lamphere Robotics"
+languageCode: 'en'
+# theme: 'heyo-hugo-theme'  # original
+theme: 'hugo-clarity'
+
+title: "Lamphere Robotics"
+
+languages:
+  en:
+    contentDir: "content"
+    weight: 1
+    LanguageName: "en"
+    menu:
+      main:
+        - name: "Home"
+          weight: 100
+          identifier: "home"
+          url: "/"
+        - name: "News"
+          weight: 200
+          identifier: "posts"
+          url: "/posts/"
+        - name: "Robots"
+          weight: 210
+          identifier: "robots"
+          url: "/robots/"
+        - name: "Community Outreach"
+          weight: 220
+          identifier: "outreach"
+          url: "/outreach/"
+        - name: "Sponsors"
+          weight: 230
+          identifier: "sponsors"
+          url: "/sponsors/"
+        - name: "About"
+          weight: 300
+          identifier: "about"
+          url: "/about/"
+      social:
+        - icon: "fab fa-youtube"  # Font-awesome icon
+          name: "youtube"
+          type: social
+          url: "https://www.youtube.com/@frc6566"
+        - icon: "fab fa-github"
+          name: "github"
+          type: social
+          url: "https://github.com/LamphereRobotics"
+        - icon: "fab fa-instagram"
+          name: "instagram"
+          type: social
+          url: "https://www.instagram.com/frc6566batteringrams/"
+        - icon: "fab fa-facebook"
+          name: "Facebook"
+          type: social
+          url: "https://www.facebook.com/groups/131365347945926"
+
+
+params:
+  author:
+    name: "Lamphere Robotics"
+    email: "frc6566@gmail.com"
+  title: "Lamphere Robotics"
+  description: "Makers of fine robots."
+  keywords:
+    - "FRC"
+    - "FIRST Robotics Competition"
+    - "Lamphere Robotics"
+    - "Robotics Team"
+    - "Michigan"
+  profilePicture: "images/profile.jpg"
+  favicon: "favicons/"
+  customCss: []
+  customJs: []
+  displayMode: "light"
+  logo: "/favicons/android-chrome-64x64.png"
+  usePageBundles: true
+  iconsDir: "icons/"
+  mobileNavigation: true
+  titleSeparator: " | "
+  showRelatedInArticles: true
+  showRelatedInSidebar: true
+  footerLogo: "/favicons/android-chrome-128x128.png"
+  enableSearch: true
+  images:
+    - 'images/profile.jpg'
+  mainSections:
+    - 'robots'
+    - 'posts'
+    - 'outreach'
+  sketch:
+    enable: false
+    displayOptions: true
+    # Graph, Digital Rain, or Circles
+    use: "Digital Rain"
+    # JSON that is passed to the sketch constructor
+    # You can check all the possible configurations in
+    startingConfig: |
+      {
+        "kind": "katakana",
+        "nStreams": 10
+      }
+  math:
+    # global support, you can also configure it per page
+    enable: true
+    # katex or mathjax, default is mathjax
+    use: "mathjax"
+  socialIcons:
+    - icon: "fab fa-youtube"  # Font-awesome icon
+      title: "Youtube"
+      url: "https://www.youtube.com/@frc6566"
+    # - icon: "fab fa-tiktok" # Font-awesome icon
+    #   title: "Tiktok"
+    #   url: "https://www.tiktok.com/@frc6566batteringrams"
+    - icon: "fab fa-github"
+      title: "GitHub"
+      url: "https://github.com/LamphereRobotics"
+    - icon: "fab fa-instagram"
+      title: "instagram"
+      url: "https://www.instagram.com/frc6566batteringrams/"
+    - icon: "fab fa-facebook"
+      title: "Facebook"
+      url: "https://www.facebook.com/groups/131365347945926"
+    - icon: "fas fa-envelope"
+      title: "e-mail"
+      url: "mailto:frc6566@gmail.com"
+
+taxonomies:
+  series: 'series'
+  categories: 'categories'
+  tags: 'tags'
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    endLevel: 6
+    startLevel: 1
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: "dracula"
+    tabWidth: 4
+
+# Hugo will ignore these files, .rmd and .rmarkdown are taken care by blogdown
+ignoreFiles:
+  - "\\.Rmd$"
+  - "\\.Rmarkdown"
+  - "_files$"
+  - "_cache$"

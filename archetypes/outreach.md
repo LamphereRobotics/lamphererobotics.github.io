@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: ""
-categories: []
+categories: [Outreach]
 tags: []
 DisableComments: false
 draft: true

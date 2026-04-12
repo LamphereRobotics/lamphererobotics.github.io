@@ -61,4 +61,4 @@ P.S. Here's a video one of our students made to help convince you (Thanks Ryan!)
 
 And here's a clip of our 2025 robot in action (we're #6566 in red, and our driving team is in the center position):
 
-{{< youtube id="KjEnn_UIwls" >}}
+{{% youtube "https://www.youtube.com/watch?v=KjEnn_UIwls" %}}

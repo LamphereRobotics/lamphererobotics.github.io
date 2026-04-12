@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: ""
-categories: []
+categories: [News]
 tags: []
 DisableComments: false
 draft: true
