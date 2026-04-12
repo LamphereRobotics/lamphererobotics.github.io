@@ -13,5 +13,3 @@ Lamphere Robotics consists of the following teams:
 - FTC #17189, The VOLTures
 - FTC #23582, The Sharkbytes
 - FLL #60811 and #60812, The Electric Lions
-- FLL #31098, Edmonson Explore 1
-- FLL #31099, Edmonson Explore 2
