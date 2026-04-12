@@ -9,7 +9,7 @@ draft: false
 menu:
   main:
     parent: "robots"
-    weight: -5
+    weight: -2026.3
 ---
 
 After building 2 robots for the 2026 season, we decided to squeeze one more in before the Robotics Showcase at the Paige Art Show on May 12th. Using the scavenged remains from the original SafetyNet, we decided to rebuild it, giving us a third robot to demo for attendees.

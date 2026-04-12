@@ -9,7 +9,7 @@ draft: false
 menu:
   main:
     parent: "robots"
-    weight: 1
+    weight: -2024.2
 ---
 
 Since 2024 was our first year using swerve modules, we weren't sure if the team could get them built and coded before competition, so we decided to hedge our bets by building a Mechanum-based drive-train in case swerve didn't pan out.

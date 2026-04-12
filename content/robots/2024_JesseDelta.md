@@ -9,7 +9,7 @@ draft: false
 menu:
   main:
     parent: "robots"
-    weight: -1
+    weight: -2024.1
 ---
 
 Following last year's convention, this robot was named after a mentor and student who shared a first name, making this robot: "Jesse Delta".

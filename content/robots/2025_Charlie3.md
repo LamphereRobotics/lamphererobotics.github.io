@@ -9,7 +9,7 @@ draft: false
 menu:
   main:
     parent: "robots"
-    weight: -3
+    weight: -2025.1
 ---
 
 Charlie3 was the competition robot used in the 2025 Reefscape season for FRC.
