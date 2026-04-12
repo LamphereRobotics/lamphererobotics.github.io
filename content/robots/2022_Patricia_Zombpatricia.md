@@ -1,6 +1,6 @@
 ---
 title: "2022 Competition Robot: Patricia/Zombpatricia"
-date: 2026-04-12T10:32:17-04:00
+date: 2022-04-12T10:32:17-04:00
 description: ""
 Categories: [Robots]
 Tags: [FRC,robot,2022_season]
