@@ -26,7 +26,7 @@ languages:
           weight: 210
           identifier: "robots"
           url: "/robots/"
-        - name: "Community Outreach"
+        - name: "Outreach"
           weight: 220
           identifier: "outreach"
           url: "/outreach/"
@@ -71,13 +71,14 @@ params:
     - "Michigan"
   profilePicture: "images/profile.jpg"
   favicon: "favicons/"
-  customCss: []
+  customCss:
+    - "css/banner.css"
   customJs: []
   displayMode: "light"
   logo: "/icons/android-chrome-64x64.png"
   usePageBundles: true
   iconsDir: "icons/"
-  mobileNavigation: true
+  mobileNavigation: "left"
   titleSeparator: " | "
   showRelatedInArticles: true
   showRelatedInSidebar: true
@@ -89,6 +90,10 @@ params:
     - 'robots'
     - 'posts'
     - 'outreach'
+  # Banner image settings
+  bannerImage: "images/banner.jpg"
+  bannerImageAlt: "Lamphere Robotics"
+  bannerHeight: "300px"
   sketch:
     enable: false
     displayOptions: true
