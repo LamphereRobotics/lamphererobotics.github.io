@@ -81,7 +81,7 @@ params:
   titleSeparator: " | "
   showRelatedInArticles: true
   showRelatedInSidebar: true
-  footerLogo: "/favicons/android-chrome-128x128.png"
+  footerLogo: "/icons/android-chrome-128x128.png"
   enableSearch: true
   images:
     - 'images/profile.jpg'
