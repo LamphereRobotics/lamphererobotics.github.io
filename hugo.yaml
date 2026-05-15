@@ -74,7 +74,7 @@ params:
   customCss: []
   customJs: []
   displayMode: "light"
-  logo: "/favicons/android-chrome-64x64.png"
+  logo: "/icons/android-chrome-64x64.png"
   usePageBundles: true
   iconsDir: "icons/"
   mobileNavigation: true
@@ -140,6 +140,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      attributes: true
   tableOfContents:
     endLevel: 6
     startLevel: 1
